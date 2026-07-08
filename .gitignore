@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Runtime / cache artifacts
+cache/
+logs/
+*.npz
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Frontend (workspace root safeguard)
+node_modules/
+dist/
+
+# Optional: if trained models are too large for GitHub,
+# uncomment the line below and store them externally (e.g., release assets, cloud, or Git LFS)
+# trained_models/

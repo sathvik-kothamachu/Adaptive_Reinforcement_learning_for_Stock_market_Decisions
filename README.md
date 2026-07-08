@@ -400,30 +400,8 @@ Testing:
 
 - NVIDIA CUDA
 
----
 
-# 📁 Project Structure
 
-```
-AMORS
-│
-├── api_server.py
-├── Nifty50_RL_Trading_MultiStock.py
-├── xai_bot.py
-├── tune_rl_hyperparams.py
-│
-├── trade-signal-dashboard-main
-│     ├── src
-│     ├── components
-│     ├── pages
-│     └── api
-│
-├── datasets
-├── models
-├── docs
-├── screenshots
-└── README.md
-```
 
 ---
 
